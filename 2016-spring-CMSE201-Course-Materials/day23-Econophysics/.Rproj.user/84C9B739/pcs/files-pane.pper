@@ -1,0 +1,13 @@
+{
+    "path" : "~/dev/intro-to-computational-modeling/day-by-day/day23-Econophysics",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 3
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

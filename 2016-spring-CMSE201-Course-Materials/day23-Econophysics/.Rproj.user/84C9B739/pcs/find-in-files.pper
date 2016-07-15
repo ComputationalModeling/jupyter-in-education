@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "~/dev/intro-to-computational-modeling/day-by-day/Econophysics",
+        "query" : "markdown_document",
+        "regex" : false
+    }
+}
